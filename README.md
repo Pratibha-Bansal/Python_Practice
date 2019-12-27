@@ -1,12 +1,9 @@
-# Python_Practice
-new repo to  load python docs
+# This is my First Repo at Insaid
 
-- point 1
--2
-_1
-````
+## I am a Financial Analyst.
+##List of all my projects:
 
-'''
-"""
-print('hello world!")
+| [Finance Project](https://github.com/Pratibha-Bansal/Python_Practice/tree/master/Finance_Projects "Finance Project") | ![Finance](https://raw.githubusercontent.com/Pratibha-Bansal/Python_Practice/master/Images/DS%20image.jpg "Finance")  |
+| :----![Banking](https://raw.githubusercontent.com/Pratibha-Bansal/Python_Practice/master/Images/Accounts.jpg "Banking")--------: | [Banking](https://github.com/Pratibha-Bansal/Python_Practice/tree/master/Finance_Projects "Banking") |
+|[Science](https://github.com/Pratibha-Bansal/Python_Practice/tree/master/Finance_Projects "Science")   |   ![Sc](https://raw.githubusercontent.com/Pratibha-Bansal/Python_Practice/master/Images/DS%20image.jpg "Sc")|
 
